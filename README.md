@@ -14,9 +14,8 @@ Summary: brew implements a templating framework for mixing text and R code for r
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-brew-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-brew-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-brew-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-brew-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-brew-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-brew-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-brew-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-brew-feedstock)
 
 Current release info
 ====================
