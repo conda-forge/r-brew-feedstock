@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-brew-feedstoc
 
 Home: https://CRAN.R-project.org/package=brew
 
-Package license: GPL-2
+Package license: GPL-2.0-only
 
 Summary: brew implements a templating framework for mixing text and R code for report generation. brew template syntax is similar to PHP, Ruby's erb module, Java Server Pages, and Python's psp module.
 
